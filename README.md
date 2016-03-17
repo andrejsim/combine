@@ -9,7 +9,7 @@ Input: 2 NetCDF files / or netcdf OPeNDAP links.
 Output: NetCDF
 
 Module is now enabled for PYWPS
-Module is now enabled for dispel4py
+Module is now enabled for dispel4py requires dispel4py in working directory
 Module is deployed to Climate4Impact www.climate4impact.eu
 
 
